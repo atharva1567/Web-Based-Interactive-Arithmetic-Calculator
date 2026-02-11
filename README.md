@@ -14,4 +14,7 @@ Supports all basic arithmetic operations with real-time input handling and error
 - JavaScript
 
 ## Live Demo
-Try it out here: https://codepen.io/Atharvag_07/pen/MYeZdOe
+Try it out here: https://atharva1567.github.io/Web-Based-Interactive-Arithmetic-Calculator/
+
+## Code
+
