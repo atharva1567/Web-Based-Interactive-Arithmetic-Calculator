@@ -1,20 +1,17 @@
-## Web-Based Interactive Calculator
+# Web-Based Interactive Arithmetic Calculator
 
-A responsive web-based calculator built with HTML, CSS, and JavaScript.
+A responsive web-based calculator built with HTML, CSS, and JavaScript.  
 Supports all basic arithmetic operations with real-time input handling and error management.
 
 ## Features
-
-Addition, Subtraction, Multiplication, Division
-
-Clear display and delete last character functionality
-Interactive and user-riendly interface
+- Addition, subtraction, multiplication, division
+- Clear display and delete last character functionality
+- Interactive and user-friendly interface
 
 ## Technologies
-
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Live Demo
-Try It Out Here: https://codepen.io/atharva1567/pen/MYeZdOe
+Try it out here: https://codepen.io/Atharvag_07/pen/MYeZdOe
