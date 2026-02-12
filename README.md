@@ -16,5 +16,4 @@ Supports all basic arithmetic operations with real-time input handling and error
 ## Live Demo
 Try it out here: https://atharva1567.github.io/Web-Based-Interactive-Arithmetic-Calculator/
 
-## Code
 
